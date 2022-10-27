@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T17:08:38.666Z" agent="5.0 (X11)" etag="ORrjs7CUwrqgd2rWBac5" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-27T17:27:17.199Z" agent="5.0 (X11)" etag="7TFncW92Gpy7WfWXZ_LQ" version="20.5.1" type="github" pages="2">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
-    <mxGraphModel dx="3362" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,11 +472,68 @@
         <mxCell id="aJ6NszUWMJmev-b_ErE--15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;import&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="540" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bb-4DLdKsMJBS5pHf3Wi-1" value="without" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Bb-4DLdKsMJBS5pHf3Wi-1" value="without" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="1540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bb-4DLdKsMJBS5pHf3Wi-2" value="with" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Bb-4DLdKsMJBS5pHf3Wi-2" value="with" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-72.5" y="1540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-1" value="&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;using collection&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="1190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-2" target="yxYmEAfWOWmQgsWtXw14-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;app/Models/Post.php&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="1220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-3" target="yxYmEAfWOWmQgsWtXw14-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-3" target="yxYmEAfWOWmQgsWtXw14-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-3" value="collection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="1290" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-4" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;public static function all()&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return self::$blog_posts;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="1560" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-5" target="yxYmEAfWOWmQgsWtXw14-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-5" target="yxYmEAfWOWmQgsWtXw14-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-5" value="Class Post" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-6" value="&lt;blockquote&gt;public static function find($slug)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $posts = self::$blog_posts;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $post = [];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; foreach($posts as $p) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if($p[&quot;slug&quot;] === $slug) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $post = $p;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return $post;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="1560" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-7" target="yxYmEAfWOWmQgsWtXw14-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="yxYmEAfWOWmQgsWtXw14-7" target="yxYmEAfWOWmQgsWtXw14-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-7" value="Class Post" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-8" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;public static function all()&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return collect(self::$blog_posts);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="1560" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-9" value="public static function find($slug)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $posts = static::all();&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return $posts-&amp;gt;firstWhere(&#39;slug&#39;, $slug);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1560" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-16" value="without" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="1350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-17" value="with" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="1350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxYmEAfWOWmQgsWtXw14-19" value="&lt;b&gt;the code looks better by using collection&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="1425" width="280" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
