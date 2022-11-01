@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T12:42:35.639Z" agent="5.0 (X11)" etag="DfuNB2bts0Mo633OUfpY" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-01T12:09:39.256Z" agent="5.0 (X11)" etag="08uQC_4RjHopvsN41WYM" version="20.5.1" type="github" pages="3">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,6 +691,50 @@
         </mxCell>
         <mxCell id="I95NrS4myb5mcOJY2kiH-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;&lt;b&gt;where to get job&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1310" y="560" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20eUnHARB12Y9XUnpzla-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-879.99999999999" y="372.5050000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-1" value="&lt;div&gt;Laravel&#39;s &quot;@csrf&quot;&lt;/div&gt;&lt;div&gt;csrf-prevention&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="353.14" width="170" height="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20eUnHARB12Y9XUnpzla-2" target="20eUnHARB12Y9XUnpzla-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-2" value="goto: /&amp;lt;your-route&amp;gt; method: post&lt;br&gt;&lt;div&gt;form-submit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="337.51" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-4" value="submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="353.13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-6" value="DB interraction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="342.51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-9" value="generate token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="360.63" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-10" value="validated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="360.63" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20eUnHARB12Y9XUnpzla-12" target="20eUnHARB12Y9XUnpzla-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="20eUnHARB12Y9XUnpzla-12" target="20eUnHARB12Y9XUnpzla-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-12" value="token validation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="332.51" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-15" value="&lt;div&gt;&quot;409&quot;&lt;/div&gt;&lt;div&gt;Page Expired&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="264.5" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20eUnHARB12Y9XUnpzla-18" value="&lt;u&gt;&lt;b&gt;CSRF prevention&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="250" width="140" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
