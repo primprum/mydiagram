@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T13:30:27.844Z" agent="5.0 (X11)" etag="izgtWsthQl3IgkswFXif" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-07T15:30:53.813Z" agent="5.0 (X11)" etag="NMshwu2s9zV6o-WZbVmA" version="20.5.3" type="github" pages="4">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1257,29 +1257,73 @@
         <mxCell id="G708wMmXVsS3M85gH46n-29" value="&lt;div&gt;1 to N&lt;/div&gt;&lt;div&gt;(hasMany)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WxNGATH_prnx79SeUTqO-1" target="WxNGATH_prnx79SeUTqO-2">
+        <mxCell id="WxNGATH_prnx79SeUTqO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WxNGATH_prnx79SeUTqO-1" target="WxNGATH_prnx79SeUTqO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-1" value="&lt;div&gt;resources/views &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Laravel&#39;s Blade)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-1" value="&lt;div&gt;resources/views &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Laravel&#39;s Blade)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WxNGATH_prnx79SeUTqO-2" target="WxNGATH_prnx79SeUTqO-3">
+        <mxCell id="WxNGATH_prnx79SeUTqO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WxNGATH_prnx79SeUTqO-2" target="WxNGATH_prnx79SeUTqO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-2" value="&lt;div&gt;resources/js &lt;br&gt;&lt;/div&gt;&lt;div&gt;(app.js)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-2" value="&lt;div&gt;resources/js &lt;br&gt;&lt;/div&gt;&lt;div&gt;(app.js)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-3" value="&lt;div&gt;resources/js/vue &lt;br&gt;&lt;/div&gt;&lt;div&gt;(app.vue)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-3" value="&lt;div&gt;resources/js/vue &lt;br&gt;&lt;/div&gt;&lt;div&gt;(app.vue)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1580" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-6" value="require" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-6" value="require" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1290" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-7" value="require" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-7" value="require" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1500" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WxNGATH_prnx79SeUTqO-8" value="&lt;u&gt;&lt;b&gt;Vue.js in Laravel&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WxNGATH_prnx79SeUTqO-8" value="&lt;u&gt;&lt;b&gt;Vue.js in Laravel&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-1" value="app.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-2" target="tqSOqEwUj0PCYKrW6nEY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-2" value="addItemForm.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="660" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-3" target="tqSOqEwUj0PCYKrW6nEY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-3" value="listView.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="660" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-4" target="tqSOqEwUj0PCYKrW6nEY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-4" value="&amp;lt;add-item-form /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="565" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-5" target="tqSOqEwUj0PCYKrW6nEY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-5" value="&amp;lt;list-view /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="565" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-13" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-14" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-17" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-18" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-19" value="&lt;u&gt;&lt;b&gt;app.vue components&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="445" width="140" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
