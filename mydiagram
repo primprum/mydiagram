@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T15:30:53.813Z" agent="5.0 (X11)" etag="NMshwu2s9zV6o-WZbVmA" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-07T17:36:19.206Z" agent="5.0 (X11)" etag="bFNOoCUO0TME5jManC3k" version="20.5.3" type="github" pages="4">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -864,20 +864,23 @@
         <mxCell id="BCnZn2JmlOG5AYdOiGXd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="BCnZn2JmlOG5AYdOiGXd-2" target="BCnZn2JmlOG5AYdOiGXd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5orF05jd5O_eq65RZb0K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BCnZn2JmlOG5AYdOiGXd-2" target="5orF05jd5O_eq65RZb0K-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BCnZn2JmlOG5AYdOiGXd-2" value="Authentication Method" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="350" y="230" width="110" height="50" as="geometry" />
+          <mxGeometry x="310" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BCnZn2JmlOG5AYdOiGXd-3" value="Laravel Breeze" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="90" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BCnZn2JmlOG5AYdOiGXd-4" value="Laravel JWT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="270" y="320" width="110" height="50" as="geometry" />
+          <mxGeometry x="240" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BCnZn2JmlOG5AYdOiGXd-5" value="Laravel Manual" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="450" y="320" width="110" height="50" as="geometry" />
+          <mxGeometry x="390" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BCnZn2JmlOG5AYdOiGXd-9" value="(other)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="640" y="320" width="110" height="50" as="geometry" />
+        <mxCell id="BCnZn2JmlOG5AYdOiGXd-9" value="Laravel Passport" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="540" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWp2hbnbZWNToXXTIozG-2" value="&lt;u&gt;&lt;b&gt;about middleware&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="210" height="30" as="geometry" />
@@ -1281,49 +1284,52 @@
         <mxCell id="WxNGATH_prnx79SeUTqO-8" value="&lt;u&gt;&lt;b&gt;Vue.js in Laravel&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-1" value="app.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-1" value="app.vue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1300" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-2" target="tqSOqEwUj0PCYKrW6nEY-4">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tqSOqEwUj0PCYKrW6nEY-2" target="tqSOqEwUj0PCYKrW6nEY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-2" value="addItemForm.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-2" value="addItemForm.vue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1165" y="660" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-3" target="tqSOqEwUj0PCYKrW6nEY-5">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tqSOqEwUj0PCYKrW6nEY-3" target="tqSOqEwUj0PCYKrW6nEY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-3" value="listView.vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-3" value="listView.vue" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1407.5" y="660" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-4" target="tqSOqEwUj0PCYKrW6nEY-1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tqSOqEwUj0PCYKrW6nEY-4" target="tqSOqEwUj0PCYKrW6nEY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-4" value="&amp;lt;add-item-form /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-4" value="&amp;lt;add-item-form /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="565" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqSOqEwUj0PCYKrW6nEY-5" target="tqSOqEwUj0PCYKrW6nEY-1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tqSOqEwUj0PCYKrW6nEY-5" target="tqSOqEwUj0PCYKrW6nEY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1350" y="543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-5" value="&amp;lt;list-view /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-5" value="&amp;lt;list-view /&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="565" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-13" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-13" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1250" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-14" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-14" value="import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1380" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-17" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-17" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1240" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-18" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-18" value="export" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1470" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqSOqEwUj0PCYKrW6nEY-19" value="&lt;u&gt;&lt;b&gt;app.vue components&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tqSOqEwUj0PCYKrW6nEY-19" value="&lt;u&gt;&lt;b&gt;app.vue components&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1280" y="445" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5orF05jd5O_eq65RZb0K-1" value="Laravel Sanctum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
