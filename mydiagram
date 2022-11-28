@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T15:15:05.840Z" agent="5.0 (X11)" etag="yWdnmal9W-Rzyc0AZ3nm" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-28T15:22:47.311Z" agent="5.0 (X11)" etag="-TtWzp32KQTBNUMOhSo_" version="20.6.0" type="github" pages="6">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2167,20 +2167,26 @@
         <mxCell id="jW2K4fV4tbZ64c5x9dGB-4" value="Web" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="125" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L3tRrf0syFLcE64naozj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L3tRrf0syFLcE64naozj-1" target="L3tRrf0syFLcE64naozj-2">
+        <mxCell id="L3tRrf0syFLcE64naozj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="L3tRrf0syFLcE64naozj-1" target="L3tRrf0syFLcE64naozj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L3tRrf0syFLcE64naozj-1" value="Domain Name Resolution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L3tRrf0syFLcE64naozj-1" value="Domain Name Resolution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="230" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L3tRrf0syFLcE64naozj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L3tRrf0syFLcE64naozj-2" target="L3tRrf0syFLcE64naozj-3">
+        <mxCell id="L3tRrf0syFLcE64naozj-5" value="if not" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="L3tRrf0syFLcE64naozj-2" target="L3tRrf0syFLcE64naozj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L3tRrf0syFLcE64naozj-2" value="/etc/hosts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="235" width="95" height="40" as="geometry" />
+        <mxCell id="L3tRrf0syFLcE64naozj-2" value="/etc/hosts" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="235" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L3tRrf0syFLcE64naozj-3" value="/etc/resolv.conf" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTA6NXpF_wRkSmvY1LS0-2" value="if not" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L3tRrf0syFLcE64naozj-3" target="dTA6NXpF_wRkSmvY1LS0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3tRrf0syFLcE64naozj-3" value="/etc/resolv.conf" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="232.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dTA6NXpF_wRkSmvY1LS0-1" value="ISP DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="232.5" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
