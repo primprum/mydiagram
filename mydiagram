@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T14:41:31.447Z" agent="5.0 (X11)" etag="rux8VzS0orxO-Mq-78fz" version="20.6.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-06T10:04:22.318Z" agent="5.0 (X11)" etag="760-Hp3j-ruy1mzuekem" version="20.6.0" type="github" pages="7">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5062" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2006,29 +2006,59 @@
         <mxCell id="lJ4y4V_4wY5LD3nGPdUE-19" value="HTML as FE" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="630" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERApFWC796_jD4yEowOM-1" target="ERApFWC796_jD4yEowOM-2">
+        <mxCell id="ERApFWC796_jD4yEowOM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ERApFWC796_jD4yEowOM-1" target="ERApFWC796_jD4yEowOM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-1" value="import slugify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ERApFWC796_jD4yEowOM-1" value="import slugify" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="310" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERApFWC796_jD4yEowOM-2" target="ERApFWC796_jD4yEowOM-3">
+        <mxCell id="ERApFWC796_jD4yEowOM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ERApFWC796_jD4yEowOM-2" target="ERApFWC796_jD4yEowOM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-2" value="add &#39;slug&#39; field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ERApFWC796_jD4yEowOM-2" value="add &#39;slug&#39; field" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERApFWC796_jD4yEowOM-3" target="ERApFWC796_jD4yEowOM-6">
+        <mxCell id="ERApFWC796_jD4yEowOM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ERApFWC796_jD4yEowOM-3" target="ERApFWC796_jD4yEowOM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-3" value="return &#39;slug&#39; field" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ERApFWC796_jD4yEowOM-3" value="return &#39;slug&#39; field" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="310" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-6" value="add &#39;slug&#39; field into routes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ERApFWC796_jD4yEowOM-6" value="add &#39;slug&#39; field into routes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="310" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ERApFWC796_jD4yEowOM-8" value="&lt;u&gt;&lt;b&gt;django slug&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ERApFWC796_jD4yEowOM-8" value="&lt;u&gt;&lt;b&gt;django slug&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORdrEE9jOd4_8HDvm-vD-1" target="ORdrEE9jOd4_8HDvm-vD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-1" value="generated &amp;lt;slug&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORdrEE9jOd4_8HDvm-vD-2" target="ORdrEE9jOd4_8HDvm-vD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-2" value="show &amp;lt;table-name&amp;gt; where slug == &amp;lt;slug&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="410" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORdrEE9jOd4_8HDvm-vD-3" target="ORdrEE9jOd4_8HDvm-vD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-3" value="localhost/&amp;lt;your-route&amp;gt;/&amp;lt;slug&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="410" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-5" value="generate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORdrEE9jOd4_8HDvm-vD-4" target="ORdrEE9jOd4_8HDvm-vD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-4" value="add &#39;slug&#39; field in your table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-8" value="table shown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ORdrEE9jOd4_8HDvm-vD-10" value="&lt;u&gt;&lt;b&gt;slug flow&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
