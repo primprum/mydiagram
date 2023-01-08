@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T02:06:52.680Z" agent="5.0 (X11)" etag="Qq8Bp9JWuulwvhH5zBjm" version="20.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-08T02:19:53.445Z" agent="5.0 (X11)" etag="JKf9fE0urYFw2_La7DnD" version="20.8.1" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2861,29 +2861,47 @@
         <mxCell id="j4obdJRR-Q7gmDU3reib-12" value="&lt;u&gt;&lt;b&gt;proper separation&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1180" y="10" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-2">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-3">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-4">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AUKIqhyV13TB4waM_tfI-1" target="AUKIqhyV13TB4waM_tfI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-1" value="Git 3 states" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-1" value="Git 3 states" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-2" value="modified" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-2" value="modified" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-3" value="staged" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-3" value="staged" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-4" value="commited" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-4" value="commited" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AUKIqhyV13TB4waM_tfI-8" value="&lt;u&gt;&lt;b&gt;states in git&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AUKIqhyV13TB4waM_tfI-8" value="&lt;u&gt;&lt;b&gt;states in git&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.59;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wEfU0AYEf4LjUNECBNq--1" target="wEfU0AYEf4LjUNECBNq--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wEfU0AYEf4LjUNECBNq--1" target="wEfU0AYEf4LjUNECBNq--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--1" value="git-merge types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--2" value="fast forward" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="650" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--3" value="three-way merge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wEfU0AYEf4LjUNECBNq--6" value="&lt;u&gt;&lt;b&gt;types in git-merge&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="510" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
