@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T03:30:39.516Z" agent="5.0 (X11)" etag="fwC90vwRyGy9Gr2CC-YM" version="20.8.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-11T03:40:59.918Z" agent="5.0 (X11)" etag="XGjKMIfC0Yur2WGQu3ov" version="20.8.3" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2624,23 +2624,47 @@
         <mxCell id="P5gTyRH1uFfFH5qst2cH-3" value="to buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ06088eK6zIaLaLJbpC-1" target="QQ06088eK6zIaLaLJbpC-2">
+        <mxCell id="QQ06088eK6zIaLaLJbpC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QQ06088eK6zIaLaLJbpC-1" target="QQ06088eK6zIaLaLJbpC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ06088eK6zIaLaLJbpC-1" target="QQ06088eK6zIaLaLJbpC-3">
+        <mxCell id="QQ06088eK6zIaLaLJbpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QQ06088eK6zIaLaLJbpC-1" target="QQ06088eK6zIaLaLJbpC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-1" value="&lt;div&gt;construction&lt;/div&gt;&lt;div&gt;sector&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lGinxJaSgXuufL0P2A-w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ06088eK6zIaLaLJbpC-1" target="lGinxJaSgXuufL0P2A-w-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ06088eK6zIaLaLJbpC-1" value="&lt;div&gt;construction&lt;/div&gt;&lt;div&gt;sector&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-2" value="election year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="QQ06088eK6zIaLaLJbpC-2" value="election year" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-3" value="&lt;div&gt;government allocation on infrastructure&lt;/div&gt;&lt;div&gt;(anggaran infrastruktur)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="190" height="100" as="geometry" />
+        <mxCell id="QQ06088eK6zIaLaLJbpC-3" value="&lt;div&gt;government allocation on infrastructure&lt;/div&gt;&lt;div&gt;(anggaran infrastruktur)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="430" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QQ06088eK6zIaLaLJbpC-6" value="&lt;u&gt;&lt;b&gt;predicting construction&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QQ06088eK6zIaLaLJbpC-6" value="&lt;u&gt;&lt;b&gt;predicting construction&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="105" y="290" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-1" value="low interest rate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-3" target="lGinxJaSgXuufL0P2A-w-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-3" target="lGinxJaSgXuufL0P2A-w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-3" value="&lt;div&gt;tobacco&lt;/div&gt;&lt;div&gt;sector&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-4" value="&lt;div&gt;low tax on tobacco&lt;/div&gt;&lt;div&gt;(cukai)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-6" value="&lt;div&gt;low inflation and high consumer spending&lt;/div&gt;&lt;div&gt;(disposable income)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="430" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-8" value="&lt;u&gt;&lt;b&gt;predicting tobacco&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="310" width="155" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
