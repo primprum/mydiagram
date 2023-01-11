@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T03:40:59.918Z" agent="5.0 (X11)" etag="XGjKMIfC0Yur2WGQu3ov" version="20.8.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-11T12:30:32.484Z" agent="5.0 (X11)" etag="mgd8px4nNRiEDIPm-MOV" version="20.8.3" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2665,6 +2665,42 @@
         </mxCell>
         <mxCell id="lGinxJaSgXuufL0P2A-w-8" value="&lt;u&gt;&lt;b&gt;predicting tobacco&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-9" target="lGinxJaSgXuufL0P2A-w-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-9" target="lGinxJaSgXuufL0P2A-w-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-9" value="&lt;div&gt;shipping&lt;/div&gt;&lt;div&gt;sector&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-10" target="lGinxJaSgXuufL0P2A-w-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-10" target="lGinxJaSgXuufL0P2A-w-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lGinxJaSgXuufL0P2A-w-10" target="lGinxJaSgXuufL0P2A-w-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-10" value="&lt;div&gt;container&lt;/div&gt;&lt;div&gt;shipping&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-11" value="commodity&lt;div&gt;shipping&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-15" value="world container index" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-16" value="baltic dry index" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-17" value="&lt;div&gt;china containerized&lt;/div&gt;&lt;div&gt;freight index&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="570" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lGinxJaSgXuufL0P2A-w-21" value="&lt;u&gt;&lt;b&gt;predicting shipping&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="310" width="155" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
