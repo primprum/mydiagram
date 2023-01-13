@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T12:56:22.549Z" agent="5.0 (X11)" etag="SipFYbMXrQQy_2Q5cdOG" version="20.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-13T13:11:42.914Z" agent="5.0 (X11)" etag="SdhcrU8ryfulNryswh_5" version="20.8.5" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3067,6 +3067,78 @@
         </mxCell>
         <mxCell id="styyLao_veZWteaeOWQg-11" value="trigger workflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-13" value="&lt;u&gt;&lt;b&gt;CI/CD tools&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="950" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-14" target="styyLao_veZWteaeOWQg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-14" value="CI/CD tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-15" value="Jenkins" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="1070" width="82.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-16" value="AWS codebuild" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-17" value="Azure DevOps" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-18" value="GitLab CI/CD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-19" value="Circle CI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-25" value="GitHub Actions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-27" value="&lt;u&gt;&lt;b&gt;common workflow&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="740" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-28" target="styyLao_veZWteaeOWQg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-28" value="&lt;div&gt;commit &lt;br&gt;&lt;/div&gt;&lt;div&gt;code&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="780" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-29" target="styyLao_veZWteaeOWQg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-29" value="test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="795" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-31" target="styyLao_veZWteaeOWQg-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-31" value="build" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="795" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="styyLao_veZWteaeOWQg-32" target="styyLao_veZWteaeOWQg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-32" value="push" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="795" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styyLao_veZWteaeOWQg-33" value="deploy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="795" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
