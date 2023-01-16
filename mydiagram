@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T13:11:42.914Z" agent="5.0 (X11)" etag="SdhcrU8ryfulNryswh_5" version="20.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-16T01:23:07.120Z" agent="5.0 (X11)" etag="V-mmjqBHtqT5Z07vYn_Z" version="20.8.5" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2732,7 +2732,10 @@
         <mxCell id="dLHqs16H8PWWRtE9ODn4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="dLHqs16H8PWWRtE9ODn4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vnmIIHFfFxmclwnBnuj1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="vnmIIHFfFxmclwnBnuj1-1">
+        <mxCell id="vnmIIHFfFxmclwnBnuj1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="vnmIIHFfFxmclwnBnuj1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOPYY45vrP4WOxlF8cf6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="vOPYY45vrP4WOxlF8cf6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-1" value="&lt;div&gt;true value of&lt;br&gt;&lt;/div&gt;&lt;div&gt;bitcoin price&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2750,8 +2753,11 @@
         <mxCell id="dLHqs16H8PWWRtE9ODn4-8" value="&lt;u&gt;&lt;b&gt;predicting bitcoin&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="560" width="155" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vnmIIHFfFxmclwnBnuj1-1" value="bitcoin supply last active 1+ year ago" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vnmIIHFfFxmclwnBnuj1-1" value="bitcoin supply last active 1+ year ago" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="690" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOPYY45vrP4WOxlF8cf6-1" value="&lt;div&gt;COT bitcoin&lt;/div&gt;&lt;div&gt;(accumulation)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="690" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
