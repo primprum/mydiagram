@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T04:24:55.912Z" agent="5.0 (X11)" etag="2MWKgoGyUBPiGsgc7YnX" version="20.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-18T02:11:08.168Z" agent="5.0 (X11)" etag="8OPglKOC3F0JcTMrumNQ" version="20.8.5" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2738,7 +2738,10 @@
         <mxCell id="vOPYY45vrP4WOxlF8cf6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="vOPYY45vrP4WOxlF8cf6-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18D7AnLmnt02HBgp0FeF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="18D7AnLmnt02HBgp0FeF-1">
+        <mxCell id="18D7AnLmnt02HBgp0FeF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="18D7AnLmnt02HBgp0FeF-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOXNru3La4wx8xzrn6qx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="EOXNru3La4wx8xzrn6qx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-1" value="&lt;div&gt;true value of&lt;br&gt;&lt;/div&gt;&lt;div&gt;bitcoin price&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2762,8 +2765,11 @@
         <mxCell id="vOPYY45vrP4WOxlF8cf6-1" value="&lt;div&gt;COT bitcoin&lt;/div&gt;&lt;div&gt;(accumulation)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="690" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18D7AnLmnt02HBgp0FeF-1" value="&lt;div&gt;price above&lt;br&gt;&lt;/div&gt;&lt;div&gt;MA-10 monthly&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="18D7AnLmnt02HBgp0FeF-1" value="&lt;div&gt;price above&lt;br&gt;&lt;/div&gt;&lt;div&gt;MA-10 monthly&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="690" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOXNru3La4wx8xzrn6qx-1" value="CBBI index" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="690" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
