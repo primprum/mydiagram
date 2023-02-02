@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T16:41:54.347Z" agent="5.0 (X11)" etag="DtzEjV4vOxImlIMVgvDw" version="20.8.14" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-02T16:54:16.797Z" agent="5.0 (X11)" etag="-un76KVvBIL5HKd1KfgM" version="20.8.15" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2878,7 +2878,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="BM83N815xbtHuO5Rmqad-1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="BM83N815xbtHuO5Rmqad-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-1" value="&lt;div&gt;true value of&lt;br&gt;&lt;/div&gt;&lt;div&gt;bitcoin price&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2911,34 +2911,37 @@
         <mxCell id="hMIsUKNrkWA6GqxRGuGA-1" value="&lt;div&gt;TOTAL3/TOTAL&lt;/div&gt;&lt;div&gt;in downtrend&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="780" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-1" value="transaction fee" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-1" value="transaction fee" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="780" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-3" value="&lt;u&gt;&lt;b&gt;predicting US stocks&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-3" value="&lt;u&gt;&lt;b&gt;predicting US stocks&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="860" width="155" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="BM83N815xbtHuO5Rmqad-5">
+        <mxCell id="BM83N815xbtHuO5Rmqad-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="BM83N815xbtHuO5Rmqad-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="BM83N815xbtHuO5Rmqad-9">
+        <mxCell id="BM83N815xbtHuO5Rmqad-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="BM83N815xbtHuO5Rmqad-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-4" value="SP500" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fAJP8iywHeFgluDdXq_o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="fAJP8iywHeFgluDdXq_o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM83N815xbtHuO5Rmqad-4" value="SP500" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="910" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-7" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-5" target="BM83N815xbtHuO5Rmqad-6">
+        <mxCell id="BM83N815xbtHuO5Rmqad-7" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-5" target="BM83N815xbtHuO5Rmqad-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-5" value="&amp;gt;5% in January after negative previous year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-5" value="&amp;gt;5% in January after negative previous year" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1010" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-6" value="&quot;2023 after positive january&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-6" value="&quot;2023 after positive january&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="1150" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-12" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-9" target="BM83N815xbtHuO5Rmqad-11">
+        <mxCell id="BM83N815xbtHuO5Rmqad-12" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-9" target="BM83N815xbtHuO5Rmqad-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-14" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-9" target="BM83N815xbtHuO5Rmqad-13">
+        <mxCell id="BM83N815xbtHuO5Rmqad-14" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-9" target="BM83N815xbtHuO5Rmqad-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="183" y="1078" />
@@ -2946,14 +2949,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-9" value="US election year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-9" value="US election year" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="1010" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-11" value="&quot;US presidential cycle&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-11" value="&quot;US presidential cycle&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="1150" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-13" value="&quot;US presidential cycle - pre election&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-13" value="&quot;US presidential cycle - pre election&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="1250" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAJP8iywHeFgluDdXq_o-2" value="&lt;div&gt;Cyclically-Adjusted Price-to-Earnings&lt;br&gt;&lt;/div&gt;&lt;div&gt;(CAPE) ratio&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1010" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
