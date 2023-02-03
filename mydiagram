@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T17:21:34.603Z" agent="5.0 (X11)" etag="g3_u2YvklhMM42xHxZ-7" version="20.8.15" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-03T02:20:46.517Z" agent="5.0 (X11)" etag="ZJJFOTtSxc4jOPzj6M6Z" version="20.8.15" type="github" pages="8">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2926,7 +2926,7 @@
         <mxCell id="fAJP8iywHeFgluDdXq_o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="fAJP8iywHeFgluDdXq_o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="3adBzUH_3SV-kz0aCb9h-1">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="3adBzUH_3SV-kz0aCb9h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BM83N815xbtHuO5Rmqad-4" value="SP500" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2961,23 +2961,53 @@
         <mxCell id="BM83N815xbtHuO5Rmqad-13" value="&quot;US presidential cycle - pre election&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="1250" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-6" value="or" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAJP8iywHeFgluDdXq_o-2" target="3adBzUH_3SV-kz0aCb9h-5">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-6" value="or" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fAJP8iywHeFgluDdXq_o-2" target="3adBzUH_3SV-kz0aCb9h-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAJP8iywHeFgluDdXq_o-2" value="&lt;div&gt;Cyclically-Adjusted Price-to-Earnings&lt;br&gt;&lt;/div&gt;&lt;div&gt;(CAPE) ratio&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="1010" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-4" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3adBzUH_3SV-kz0aCb9h-1" target="3adBzUH_3SV-kz0aCb9h-2">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-4" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3adBzUH_3SV-kz0aCb9h-1" target="3adBzUH_3SV-kz0aCb9h-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-1" value="longtermtrends.net" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-1" value="longtermtrends.net" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="667.5" y="1010" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-2" value="&quot;us-sectors-relative-strength&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-2" value="&quot;us-sectors-relative-strength&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="1150" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3adBzUH_3SV-kz0aCb9h-5" value="avg. PBV" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3adBzUH_3SV-kz0aCb9h-5" value="avg. PBV" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="1150" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-1" value="&lt;u&gt;&lt;b&gt;choosing IDX socks&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="870" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="We_Jxfr9VvhLfi7ntmAb-2" target="We_Jxfr9VvhLfi7ntmAb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-2" value="IDX Composite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-6" value="example" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="We_Jxfr9VvhLfi7ntmAb-3" target="We_Jxfr9VvhLfi7ntmAb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-3" value="GCG" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1000" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-9" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="We_Jxfr9VvhLfi7ntmAb-5" target="We_Jxfr9VvhLfi7ntmAb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-10" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="We_Jxfr9VvhLfi7ntmAb-5" target="We_Jxfr9VvhLfi7ntmAb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-5" value="&lt;div&gt;total&lt;/div&gt;&lt;div&gt;(non public) ownership of the stocks&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-7" value="symbol info from Stockbit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="We_Jxfr9VvhLfi7ntmAb-8" value="&lt;div&gt;(IDX) profil-perusahaan-tercatat&lt;/div&gt;&lt;div&gt;(pengumuman)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1132.5" y="1240" width="117.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
