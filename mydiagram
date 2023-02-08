@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T11:48:15.212Z" agent="5.0 (X11)" etag="x3f56c1L4x6wn_gn0-g8" version="20.8.16" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-02-08T03:28:18.478Z" agent="5.0 (X11)" etag="-9kdwF1qSUp5oSxO4SRK" version="20.8.16" type="github" pages="9">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2861,7 +2861,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="455" y="660" />
+              <mxPoint x="405" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2877,7 +2877,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="895" y="660" />
+              <mxPoint x="930" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2885,7 +2885,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="1055" y="660" />
+              <mxPoint x="1155" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2893,7 +2893,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="1215" y="660" />
+              <mxPoint x="1325" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2901,7 +2901,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="1375" y="660" />
+              <mxPoint x="1465" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2909,18 +2909,34 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
-              <mxPoint x="515" y="660" />
+              <mxPoint x="503" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BM83N815xbtHuO5Rmqad-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="BM83N815xbtHuO5Rmqad-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="660" />
+              <mxPoint x="840" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="660" />
+              <mxPoint x="1035" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-1" value="&lt;div&gt;true value of&lt;br&gt;&lt;/div&gt;&lt;div&gt;bitcoin price&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="590" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-2" value="hodl waves" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="690" width="100" height="60" as="geometry" />
+          <mxGeometry x="355" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-3" value="new btc address" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="690" width="120" height="60" as="geometry" />
@@ -2932,19 +2948,19 @@
           <mxGeometry x="480" y="560" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vnmIIHFfFxmclwnBnuj1-1" value="bitcoin supply last active 1+ year ago" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="690" width="130" height="60" as="geometry" />
+          <mxGeometry x="865" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vOPYY45vrP4WOxlF8cf6-1" value="&lt;div&gt;COT bitcoin&lt;/div&gt;&lt;div&gt;(accumulation)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="690" width="130" height="60" as="geometry" />
+          <mxGeometry x="1090" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18D7AnLmnt02HBgp0FeF-1" value="&lt;div&gt;price above&lt;br&gt;&lt;/div&gt;&lt;div&gt;MA-10 monthly&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="690" width="130" height="60" as="geometry" />
+          <mxGeometry x="1260" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EOXNru3La4wx8xzrn6qx-1" value="CBBI index" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="690" width="130" height="60" as="geometry" />
+          <mxGeometry x="1400" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hMIsUKNrkWA6GqxRGuGA-1" value="&lt;div&gt;TOTAL3/TOTAL&lt;/div&gt;&lt;div&gt;in downtrend&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="780" width="130" height="60" as="geometry" />
+          <mxGeometry x="437.5" y="780" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BM83N815xbtHuO5Rmqad-1" value="transaction fee" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="780" width="130" height="60" as="geometry" />
@@ -3073,6 +3089,12 @@
         </mxCell>
         <mxCell id="AOuLDwO35M0Tv9CU-jG5-3" value="WALCL-WTREGEN-RRPONTSYD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1242.5" y="1150" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-1" value="buybitcoinworldwide.com" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-5" value="&lt;div&gt;stock to flow&lt;/div&gt;&lt;div&gt;model&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="780" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
