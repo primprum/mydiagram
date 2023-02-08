@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T03:28:18.478Z" agent="5.0 (X11)" etag="-9kdwF1qSUp5oSxO4SRK" version="20.8.16" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-02-08T03:47:25.791Z" agent="5.0 (X11)" etag="uH__pNxU4YGiQ_BCcNqK" version="20.8.18" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2916,7 +2916,7 @@
         <mxCell id="BM83N815xbtHuO5Rmqad-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="BM83N815xbtHuO5Rmqad-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-1">
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
@@ -2924,7 +2924,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-5">
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="8xW0nTYeYPQ_hGc1FNLT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
@@ -3090,11 +3090,52 @@
         <mxCell id="AOuLDwO35M0Tv9CU-jG5-3" value="WALCL-WTREGEN-RRPONTSYD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1242.5" y="1150" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-1" value="buybitcoinworldwide.com" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-1" value="buybitcoinworldwide.com" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="780" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-5" value="&lt;div&gt;stock to flow&lt;/div&gt;&lt;div&gt;model&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8xW0nTYeYPQ_hGc1FNLT-5" value="&lt;div&gt;stock to flow&lt;/div&gt;&lt;div&gt;model&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uOg-d3iNGN5Z2OzQgZ5L" name="Bitcoin">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ghjziBWcHok5l-RdGxz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ghjziBWcHok5l-RdGxz-1" target="1ghjziBWcHok5l-RdGxz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ghjziBWcHok5l-RdGxz-1" target="1ghjziBWcHok5l-RdGxz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-1" value="PlanB 7 Bull Signals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-2" value="&lt;div&gt;stock to flow&lt;/div&gt;&lt;div&gt;model&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-3" value="Bitcoin RSI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-4" value="% BTC in Profit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-5" value="&lt;div&gt;BTC Realized&lt;/div&gt;&lt;div&gt;Return&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-6" value="&lt;div&gt;BTC &amp;amp; SP500&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ghjziBWcHok5l-RdGxz-7" target="1ghjziBWcHok5l-RdGxz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ghjziBWcHok5l-RdGxz-7" target="1ghjziBWcHok5l-RdGxz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ghjziBWcHok5l-RdGxz-7" value="&lt;div&gt;months until&lt;/div&gt;&lt;div&gt;halving&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
