@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T02:22:19.080Z" agent="5.0 (X11)" etag="TDQPI3hn4iIADvCeU7GF" version="20.8.21" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:52:25.979Z" agent="5.0 (X11)" etag="2hZ7mOQmR6Prp1qV0J56" version="20.8.21" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3064,7 +3064,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1_Mg6Kz8dYZRldzVvi-G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="1_Mg6Kz8dYZRldzVvi-G-1">
+        <mxCell id="1_Mg6Kz8dYZRldzVvi-G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="1_Mg6Kz8dYZRldzVvi-G-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="660" />
@@ -3191,8 +3191,11 @@
         <mxCell id="p63v0kdIbHoNyZna-1yM-14" value="example" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p63v0kdIbHoNyZna-1yM-15" target="p63v0kdIbHoNyZna-1yM-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p63v0kdIbHoNyZna-1yM-15" target="mEjEm5ybvhGpkm5L_pyg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-15" value="GCG" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="1010" width="110" height="70" as="geometry" />
+          <mxGeometry x="1700" y="1010" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-16" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p63v0kdIbHoNyZna-1yM-18" target="p63v0kdIbHoNyZna-1yM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3201,13 +3204,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-18" value="&lt;div&gt;total&lt;/div&gt;&lt;div&gt;(non public) ownership of the stocks&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1765" y="1130" width="120" height="70" as="geometry" />
+          <mxGeometry x="1540" y="1130" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-19" value="symbol info from Stockbit" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="1250" width="120" height="70" as="geometry" />
+          <mxGeometry x="1440" y="1250" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-20" value="&lt;div&gt;(IDX) profil-perusahaan-tercatat&lt;/div&gt;&lt;div&gt;(pengumuman)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1885" y="1250" width="117.5" height="70" as="geometry" />
+          <mxGeometry x="1640" y="1250" width="117.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-24" value="ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p63v0kdIbHoNyZna-1yM-21" target="p63v0kdIbHoNyZna-1yM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3236,8 +3239,35 @@
         <mxCell id="8xW0nTYeYPQ_hGc1FNLT-5" value="&lt;div&gt;stock to flow&lt;/div&gt;&lt;div&gt;model&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="780" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1_Mg6Kz8dYZRldzVvi-G-1" value="&lt;div&gt;monthly&lt;/div&gt;&lt;div&gt;Heiken Ashi&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1_Mg6Kz8dYZRldzVvi-G-1" value="&lt;div&gt;monthly&lt;/div&gt;&lt;div&gt;Heiken Ashi&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-5" value="bad" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEjEm5ybvhGpkm5L_pyg-1" target="mEjEm5ybvhGpkm5L_pyg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-6" value="worse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEjEm5ybvhGpkm5L_pyg-1" target="mEjEm5ybvhGpkm5L_pyg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-1" value="right issue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEjEm5ybvhGpkm5L_pyg-3" target="mEjEm5ybvhGpkm5L_pyg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-3" value="for expansion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEjEm5ybvhGpkm5L_pyg-4" target="mEjEm5ybvhGpkm5L_pyg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-4" value="for paying debt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-7" value="diluted ownership" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEjEm5ybvhGpkm5L_pyg-10" value="&lt;div align=&quot;left&quot;&gt;&lt;i&gt;Warren Buffett never invest in company who does right issue.&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;it means they don&#39;t have enough net profit or only making profit by issuing new shares.&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1782.5" y="1430" width="255" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
