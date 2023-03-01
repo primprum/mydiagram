@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T09:55:45.424Z" agent="5.0 (X11)" etag="PXJfVbHPgqN8BHEBQ12g" version="20.8.23" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-01T06:35:03.559Z" agent="5.0 (X11)" etag="7AlCVqZ_GKCcZJYifmwY" version="20.8.23" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2073,17 +2073,61 @@
         <mxCell id="I9Irsip1JdmY-NEdXEM6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="I9Irsip1JdmY-NEdXEM6-18" target="I9Irsip1JdmY-NEdXEM6-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I9Irsip1JdmY-NEdXEM6-18" value="&lt;blockquote&gt;. . .&lt;br&gt;&amp;lt;head&amp;gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;. . .&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;@vite([&#39;resources/css/app.css&#39;, &#39;resources/js/app.js&#39;])&lt;br&gt;&amp;lt;/head&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;lt;div id=&quot;app&quot;&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;lt;app&amp;gt;&amp;lt;/app&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;. . .&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="I9Irsip1JdmY-NEdXEM6-18" value="&lt;blockquote&gt;. . .&lt;br&gt;&amp;lt;head&amp;gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;. . .&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;@vite([&#39;resources/css/app.css&#39;, &#39;resources/js/app.js&#39;])&lt;br&gt;&amp;lt;/head&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;div id=&quot;app&quot;&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;app&amp;gt;&amp;lt;/app&amp;gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;. . .&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3045" y="1687.81" width="395" height="202.19" as="geometry" />
         </mxCell>
-        <mxCell id="3ChnzSzGksdeyHUj9SIP-1" value="vite.config.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3ChnzSzGksdeyHUj9SIP-1" value="vite.config.js" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3675" y="1580" width="120" height="41.41" as="geometry" />
         </mxCell>
-        <mxCell id="3ChnzSzGksdeyHUj9SIP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ChnzSzGksdeyHUj9SIP-2" target="3ChnzSzGksdeyHUj9SIP-1">
+        <mxCell id="3ChnzSzGksdeyHUj9SIP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3ChnzSzGksdeyHUj9SIP-2" target="3ChnzSzGksdeyHUj9SIP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ChnzSzGksdeyHUj9SIP-2" value="&lt;blockquote&gt;&lt;br&gt;&lt;br&gt;import { defineConfig } from &quot;vite&quot;;&lt;br&gt;import laravel from &quot;laravel-vite-plugin&quot;;&lt;br&gt;import vue from &quot;@vitejs/plugin-vue&quot;;&lt;br&gt;&lt;br&gt;export default defineConfig({&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; plugins: [&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; vue(),&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; laravel({&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; input: [&quot;resources/css/app.css&quot;, &quot;resources/js/app.js&quot;],&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; refresh: true,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }),&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ],&lt;br&gt;});&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3ChnzSzGksdeyHUj9SIP-2" value="&lt;blockquote&gt;&lt;br&gt;&lt;br&gt;import { defineConfig } from &quot;vite&quot;;&lt;br&gt;import laravel from &quot;laravel-vite-plugin&quot;;&lt;br&gt;import vue from &quot;@vitejs/plugin-vue&quot;;&lt;br&gt;&lt;br&gt;export default defineConfig({&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; plugins: [&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; vue(),&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; laravel({&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; input: [&quot;resources/css/app.css&quot;, &quot;resources/js/app.js&quot;],&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; refresh: true,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }),&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ],&lt;br&gt;});&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3530" y="1670" width="410" height="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-1" target="0rUz1wM9qoMm1V7iYrur-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-1" target="0rUz1wM9qoMm1V7iYrur-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-1" target="0rUz1wM9qoMm1V7iYrur-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-1" value="framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1894.9999999999998" width="92.5" height="44.38" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-2" target="0rUz1wM9qoMm1V7iYrur-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-2" value="Vue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2176.25" y="1980" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2336.25" y="2075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-3" value="Livewire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2288.75" y="1980" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0rUz1wM9qoMm1V7iYrur-4" target="0rUz1wM9qoMm1V7iYrur-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-4" value="React" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="1980" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;frontend&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;data binding&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2148.75" y="1865" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-9" value="v-model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2176.25" y="2075" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-13" value="wire-model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2288.75" y="2075" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0rUz1wM9qoMm1V7iYrur-14" value="onChange" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="2075" width="82.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
