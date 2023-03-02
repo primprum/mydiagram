@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T03:23:08.970Z" agent="5.0 (X11)" etag="coYU7pYQfbleWEAMQTxi" version="20.8.23" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-02T15:45:29.604Z" agent="5.0 (X11)" etag="SOsFK9XetZjvYbWzup4_" version="20.8.23" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
-    <mxGraphModel dx="4520" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3210,6 +3210,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6ta39XFXqCKWVjF_xkir-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLHqs16H8PWWRtE9ODn4-1" target="6ta39XFXqCKWVjF_xkir-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="660" />
+              <mxPoint x="1395" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dLHqs16H8PWWRtE9ODn4-1" value="where does BTC will go?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="590" width="180" height="50" as="geometry" />
         </mxCell>
@@ -3323,7 +3331,7 @@
         <mxCell id="p63v0kdIbHoNyZna-1yM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p63v0kdIbHoNyZna-1yM-13" target="p63v0kdIbHoNyZna-1yM-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p63v0kdIbHoNyZna-1yM-13" target="dugYgq338L1SjZJDmLoy-1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p63v0kdIbHoNyZna-1yM-13" target="dugYgq338L1SjZJDmLoy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p63v0kdIbHoNyZna-1yM-13" value="IDX Composite" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3440,32 +3448,35 @@
         <mxCell id="YAjJJO-JFOZ-0AOkTpmQ-11" value="&lt;div&gt;government &lt;br&gt;&lt;/div&gt;&lt;div&gt;price control&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1885" y="450" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dugYgq338L1SjZJDmLoy-1" target="dugYgq338L1SjZJDmLoy-3">
+        <mxCell id="dugYgq338L1SjZJDmLoy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dugYgq338L1SjZJDmLoy-1" target="dugYgq338L1SjZJDmLoy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-1" value="&lt;div&gt;technical&lt;/div&gt;&lt;div&gt;screener&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-1" value="&lt;div&gt;technical&lt;/div&gt;&lt;div&gt;screener&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="1010" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dugYgq338L1SjZJDmLoy-3" target="dugYgq338L1SjZJDmLoy-4">
+        <mxCell id="dugYgq338L1SjZJDmLoy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dugYgq338L1SjZJDmLoy-3" target="dugYgq338L1SjZJDmLoy-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-3" value="tradingview" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-3" value="tradingview" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2165" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dugYgq338L1SjZJDmLoy-4" target="dugYgq338L1SjZJDmLoy-5">
+        <mxCell id="dugYgq338L1SjZJDmLoy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dugYgq338L1SjZJDmLoy-4" target="dugYgq338L1SjZJDmLoy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-4" value="trend-following" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-4" value="trend-following" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2165" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dugYgq338L1SjZJDmLoy-5" target="dugYgq338L1SjZJDmLoy-6">
+        <mxCell id="dugYgq338L1SjZJDmLoy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dugYgq338L1SjZJDmLoy-5" target="dugYgq338L1SjZJDmLoy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-5" value="MA rating" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-5" value="MA rating" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2165" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dugYgq338L1SjZJDmLoy-6" value="strong buy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dugYgq338L1SjZJDmLoy-6" value="strong buy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2165" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ta39XFXqCKWVjF_xkir-1" value="bitcoin-rainbow-chart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="780" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3541,22 +3552,22 @@
         <mxCell id="6ETjaNyUUcG83jnLZfKb-1" value="&lt;div&gt;blue &amp;amp; green (buy)&lt;/div&gt;&lt;div&gt;orange &amp;amp; red (sell)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="330" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNdQ68s9QbuUi0th7Be6-1" target="aNdQ68s9QbuUi0th7Be6-2">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aNdQ68s9QbuUi0th7Be6-1" target="aNdQ68s9QbuUi0th7Be6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-1" value="good crypto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-1" value="good crypto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="500" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNdQ68s9QbuUi0th7Be6-2" target="aNdQ68s9QbuUi0th7Be6-4">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aNdQ68s9QbuUi0th7Be6-2" target="aNdQ68s9QbuUi0th7Be6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-2" value="limited supply" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-2" value="limited supply" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-4" value="&lt;div&gt;Max Supply&lt;/div&gt;&lt;div&gt;(coinmarketcap.com)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-4" value="&lt;div&gt;Max Supply&lt;/div&gt;&lt;div&gt;(coinmarketcap.com)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="720" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aNdQ68s9QbuUi0th7Be6-6" value="&lt;u&gt;&lt;b&gt;choosing crypto&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aNdQ68s9QbuUi0th7Be6-6" value="&lt;u&gt;&lt;b&gt;choosing crypto&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="450" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
