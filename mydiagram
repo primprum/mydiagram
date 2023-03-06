@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T14:32:03.144Z" agent="5.0 (X11)" etag="YspvrYW0ZV8ck3qZ4yZM" version="21.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-06T14:42:50.075Z" agent="5.0 (X11)" etag="kd6rANDy-jWrNg-8hGpn" version="21.0.2" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3283,11 +3283,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XioNLe7vy72wLxYwt2m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="5XioNLe7vy72wLxYwt2m-1">
+        <mxCell id="5XioNLe7vy72wLxYwt2m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="5XioNLe7vy72wLxYwt2m-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="738" y="990" />
               <mxPoint x="626" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGv0Xli5x-W7Uu6MwQdD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="TGv0Xli5x-W7Uu6MwQdD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="990" />
+              <mxPoint x="826" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3320,7 +3328,7 @@
         <mxCell id="BM83N815xbtHuO5Rmqad-11" value="&quot;US presidential cycle&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="1150" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM83N815xbtHuO5Rmqad-13" value="&quot;US presidential cycle - pre election&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BM83N815xbtHuO5Rmqad-13" value="&lt;div&gt;&quot;US presidential cycle - pre election&quot;&lt;/div&gt;&lt;div&gt;(3rd year)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="1250" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3adBzUH_3SV-kz0aCb9h-6" value="or" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fAJP8iywHeFgluDdXq_o-2" target="3adBzUH_3SV-kz0aCb9h-5" edge="1">
@@ -3497,8 +3505,11 @@
         <mxCell id="IJm0Mnm0QSlr8-qR30gT-1" value="worst sector last year usually the best sector next year" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="1320" width="232.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5XioNLe7vy72wLxYwt2m-1" value="since 1958, if January positive then February negative, then 100% historically August will be positive" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5XioNLe7vy72wLxYwt2m-1" value="since 1958, if January positive then February negative, then 100% historically August will be positive" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1320" width="232.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TGv0Xli5x-W7Uu6MwQdD-1" value="4 strongest bull market occurred during negative EPS growth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1230" width="232.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
