@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T14:17:17.428Z" agent="5.0 (X11)" etag="o8Im7Q2HsioQsrEx7yNA" version="21.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-06T14:32:03.144Z" agent="5.0 (X11)" etag="YspvrYW0ZV8ck3qZ4yZM" version="21.0.2" type="github" pages="10">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3275,11 +3275,19 @@
         <mxCell id="AOuLDwO35M0Tv9CU-jG5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="AOuLDwO35M0Tv9CU-jG5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IJm0Mnm0QSlr8-qR30gT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="IJm0Mnm0QSlr8-qR30gT-1">
+        <mxCell id="IJm0Mnm0QSlr8-qR30gT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="IJm0Mnm0QSlr8-qR30gT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="738" y="990" />
               <mxPoint x="366" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XioNLe7vy72wLxYwt2m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM83N815xbtHuO5Rmqad-4" target="5XioNLe7vy72wLxYwt2m-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="990" />
+              <mxPoint x="626" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3486,8 +3494,11 @@
         <mxCell id="6ta39XFXqCKWVjF_xkir-1" value="bitcoin-rainbow-chart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="780" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IJm0Mnm0QSlr8-qR30gT-1" value="worst sector last year usually the best sector next year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJm0Mnm0QSlr8-qR30gT-1" value="worst sector last year usually the best sector next year" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="1320" width="232.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XioNLe7vy72wLxYwt2m-1" value="since 1958, if January positive then February negative, then 100% historically August will be positive" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1320" width="232.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
