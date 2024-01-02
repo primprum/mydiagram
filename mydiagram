@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T10:27:14.578Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8pcKDahp4DZkV16TLkKM" version="22.1.16" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-01-02T04:58:57.504Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="gwWZ5PgExTFlzVr1w8OM" version="22.1.16" type="github" pages="11">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5004,6 +5004,34 @@
         </mxCell>
         <mxCell id="ZemO8HV4A1tuq9IWGc7e-23" value="&lt;b&gt;Agile approach in Software Testing&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="60" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-1" value="&lt;b&gt;System Integration Testing in the Online Banking System&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ao0CI6_j2i_-1MWJd6KU-2" target="ao0CI6_j2i_-1MWJd6KU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-11" value="verify user account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ao0CI6_j2i_-1MWJd6KU-10">
+          <mxGeometry x="0.0267" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-2" value="&lt;div&gt;User Authentication Module&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ao0CI6_j2i_-1MWJd6KU-3" target="ao0CI6_j2i_-1MWJd6KU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-13" value="update account balances" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ao0CI6_j2i_-1MWJd6KU-12">
+          <mxGeometry x="-0.0308" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-3" value="Account Management Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ao0CI6_j2i_-1MWJd6KU-4" value="Transaction Processing Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
