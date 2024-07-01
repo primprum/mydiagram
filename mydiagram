@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T04:22:34.480Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Ft5vuOn1tSWx4nOmZIAV" version="24.6.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-01T05:37:44.514Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="KMFxMh9MrNHSaLq28Inh" version="24.6.4" type="github" pages="16">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5853,6 +5853,149 @@
         </mxCell>
         <mxCell id="n94pYqBAtUV1tRxaVc9J-8" value="&lt;b&gt;Back to Home&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="2912" y="622" width="116.75" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6lK-DQ-LrD0KSRCGHa7U" name="Coffee-Sample">
+    <mxGraphModel dx="691" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3J82xAssOhTbtrk9IRWr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3J82xAssOhTbtrk9IRWr-1" target="3J82xAssOhTbtrk9IRWr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="60" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-5" value="&lt;b&gt;Get Started&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1882" y="498" width="116.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-6" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Onboard Page&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1871" y="640" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="60" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-11" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-12" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3J82xAssOhTbtrk9IRWr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2250" y="550" as="sourcePoint" />
+            <mxPoint x="2390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#858484;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-3/512/Bookmark_wishlist_favorites_favourite_heart_like_love-128.png" vertex="1" parent="1">
+          <mxGeometry x="2350" y="560" width="34.5" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#595959;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="563.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="60" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-20" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="3J82xAssOhTbtrk9IRWr-19" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2680" y="550" as="sourcePoint" />
+            <mxPoint x="2820" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#858484;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-3/512/Bookmark_wishlist_favorites_favourite_heart_like_love-128.png;fillColor=#FFB570;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="558" width="34.5" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-24" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#595959;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="563.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-26" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Dashboard Page (Home)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2293" y="640" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="60" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-34" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="3J82xAssOhTbtrk9IRWr-33" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3080" y="550" as="sourcePoint" />
+            <mxPoint x="3220" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#858484;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-3/512/Bookmark_wishlist_favorites_favourite_heart_like_love-128.png" vertex="1" parent="1">
+          <mxGeometry x="3180" y="560" width="34.5" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="3250" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#595959;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="563.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="60" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-41" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-42" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="3J82xAssOhTbtrk9IRWr-40" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3490" y="550" as="sourcePoint" />
+            <mxPoint x="3630" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-43" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#858484;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-3/512/Bookmark_wishlist_favorites_favourite_heart_like_love-128.png" vertex="1" parent="1">
+          <mxGeometry x="3590" y="560" width="34.5" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-45" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#595959;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="563.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-50" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB570;shadow=1;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="594.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-51" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB570;shadow=1;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="2792.25" y="594.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-52" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB570;shadow=1;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="3257" y="594.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-53" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB570;shadow=1;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="3727" y="592.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-54" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Dashboard Page (Favorites)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2723" y="640" width="237" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-55" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Dashboard Page (Cart)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="640" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3J82xAssOhTbtrk9IRWr-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Dashboard Page (Notification)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="640" width="247" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
