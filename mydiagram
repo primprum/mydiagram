@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T08:51:27.283Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="C7ijR1hCI3ZcaO6APpdT" version="24.7.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0" pages="14">
   <diagram id="2xxiQkXFWMAQCo4iTVLg" name="phpmvc">
     <mxGraphModel dx="5074" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5486,6 +5486,32 @@
         </mxCell>
         <mxCell id="XuPaXUcpcovynA2OFPYE-252" value="&lt;div&gt;notes:&lt;/div&gt;&lt;div&gt;1 sendok makan kopi dan gula bisa berbeda&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="140" width="350" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3kKdXWwRal7zrj-SlqKX" name="temp-flow">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R_e1SImXctqFDK1WTy6H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R_e1SImXctqFDK1WTy6H-1" target="R_e1SImXctqFDK1WTy6H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_e1SImXctqFDK1WTy6H-1" value="show-grayscale-converted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_e1SImXctqFDK1WTy6H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R_e1SImXctqFDK1WTy6H-2" target="R_e1SImXctqFDK1WTy6H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_e1SImXctqFDK1WTy6H-2" value="show-possible-crops" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_e1SImXctqFDK1WTy6H-3" value="save-possible-crops" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_e1SImXctqFDK1WTy6H-6" value="only if you want to see" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
